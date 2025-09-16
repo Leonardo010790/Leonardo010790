@@ -9,6 +9,10 @@
 ##### Título 5
 ###### Título 6
 
+*italico* ou _italico_
+
+**Negrito** ou __negrito__
+
 <!--
 **Leonardo010790/Leonardo010790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
